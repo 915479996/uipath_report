@@ -1,0 +1,2 @@
+wifi_report_v2: Change the function of plasting AP photos.
+wifi_report_v3: Even if there are the same files in both folders(New and Incomplete), the workflow will skip it by itself.

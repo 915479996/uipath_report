@@ -1,0 +1,1 @@
+"C:\Users\ivantang\AppData\Local\UiPath\app-19.1.0\UiRobot.exe" -file "C:\wifi_report\program\wifi_report_v2.xaml"

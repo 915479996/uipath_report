@@ -1,0 +1,91 @@
+5.0
+
+First Test
+AP MAC: 
+AP Name: 
+Channel: Current Rate:
+2018-12-14 15:13:01 PWH_BLK EF_8F T1        Local Signal Strength........................... -62dBm
+2018-12-14 15:13:01 PWH_BLK EF_8F T1        Local Signal to Noise Ratio..................... 35dB
+2018-12-14 15:14:15 PWH_BLK EF_8F T1 2.4s (5.3e+03 Kbytes/s) upload
+2018-12-14 15:14:18 PWH_BLK EF_8F T1 0.73s (1.7e+04 Kbytes/s) download
+
+Second Test
+AP MAC: 
+AP Name: 
+Channel: Current Rate:
+2018-12-14 15:14:19 PWH_BLK EF_8F T1        Local Signal Strength........................... -60dBm
+2018-12-14 15:14:19 PWH_BLK EF_8F T1        Local Signal to Noise Ratio..................... 38dB
+2018-12-14 15:15:39 PWH_BLK EF_8F T1 2.3s (5.4e+03 Kbytes/s) upload
+2018-12-14 15:15:42 PWH_BLK EF_8F T1 0.67s (1.9e+04 Kbytes/s) download
+
+First Test
+AP MAC: 
+AP Name: 
+Channel: Current Rate:
+2018-12-14 15:28:10 PWH_BLK EF_8F T2        Local Signal Strength........................... -63dBm
+2018-12-14 15:28:10 PWH_BLK EF_8F T2        Local Signal to Noise Ratio..................... 33dB
+2018-12-14 15:30:29 PWH_BLK EF_8F T2 2.6s (4.9e+03 Kbytes/s) upload
+2018-12-14 15:30:32 PWH_BLK EF_8F T2 1.4s (8.9e+03 Kbytes/s) download
+
+Second Test
+AP MAC: 
+AP Name: 
+Channel: Current Rate:
+2018-12-14 15:30:34 PWH_BLK EF_8F T2        Local Signal Strength........................... -63dBm
+2018-12-14 15:30:34 PWH_BLK EF_8F T2        Local Signal to Noise Ratio..................... 33dB
+2018-12-14 15:31:48 PWH_BLK EF_8F T2 2.9s (4.4e+03 Kbytes/s) upload
+2018-12-14 15:31:51 PWH_BLK EF_8F T2 1.5s (8.2e+03 Kbytes/s) download
+
+First Test
+AP MAC: 
+AP Name: 
+Channel: Current Rate:
+2018-12-14 15:00:02 PWH_BLK EF_8F T3        Local Signal Strength........................... -52dBm
+2018-12-14 15:00:02 PWH_BLK EF_8F T3        Local Signal to Noise Ratio..................... 44dB
+2018-12-14 15:01:16 PWH_BLK EF_8F T3 2.2s (5.6e+03 Kbytes/s) upload
+2018-12-14 15:01:19 PWH_BLK EF_8F T3 1.1s (1.1e+04 Kbytes/s) download
+
+Second Test
+AP MAC: 
+AP Name: 
+Channel: Current Rate:
+2018-12-14 15:01:20 PWH_BLK EF_8F T3        Local Signal Strength........................... -52dBm
+2018-12-14 15:01:20 PWH_BLK EF_8F T3        Local Signal to Noise Ratio..................... 44dB
+2018-12-14 15:03:35 PWH_BLK EF_8F T3 2.1s (6e+03 Kbytes/s) upload
+2018-12-14 15:03:37 PWH_BLK EF_8F T3 0.78s (1.6e+04 Kbytes/s) download
+
+First Test
+AP MAC: 
+AP Name: 
+Channel: Current Rate:
+2018-12-14 14:45:30 PWH_BLK EF_8F T4        Local Signal Strength........................... -60dBm
+2018-12-14 14:45:30 PWH_BLK EF_8F T4        Local Signal to Noise Ratio..................... 37dB
+2018-12-14 14:46:44 PWH_BLK EF_8F T4 2.1s (6e+03 Kbytes/s) upload
+2018-12-14 14:46:46 PWH_BLK EF_8F T4 1.7s (7.5e+03 Kbytes/s) download
+
+Second Test
+AP MAC: 
+AP Name: 
+Channel: Current Rate:
+2018-12-14 14:46:48 PWH_BLK EF_8F T4        Local Signal Strength........................... -62dBm
+2018-12-14 14:46:48 PWH_BLK EF_8F T4        Local Signal to Noise Ratio..................... 35dB
+2018-12-14 14:48:02 PWH_BLK EF_8F T4 2.3s (5.6e+03 Kbytes/s) upload
+2018-12-14 14:48:04 PWH_BLK EF_8F T4 1.5s (8.3e+03 Kbytes/s) download
+
+First Test
+AP MAC: 
+AP Name: 
+Channel: Current Rate:
+2018-12-14 14:52:21 PWH_BLK EF_8F T5        Local Signal Strength........................... -53dBm
+2018-12-14 14:52:21 PWH_BLK EF_8F T5        Local Signal to Noise Ratio..................... 43dB
+2018-12-14 14:53:35 PWH_BLK EF_8F T5 2s (6.1e+03 Kbytes/s) upload
+2018-12-14 14:53:37 PWH_BLK EF_8F T5 0.59s (2.1e+04 Kbytes/s) download
+
+Second Test
+AP MAC: 
+AP Name: 
+Channel: Current Rate:
+2018-12-14 14:53:39 PWH_BLK EF_8F T5        Local Signal Strength........................... -52dBm
+2018-12-14 14:53:39 PWH_BLK EF_8F T5        Local Signal to Noise Ratio..................... 44dB
+2018-12-14 14:54:53 PWH_BLK EF_8F T5 2.1s (6e+03 Kbytes/s) upload
+2018-12-14 14:54:55 PWH_BLK EF_8F T5 0.65s (1.9e+04 Kbytes/s) download

@@ -1,0 +1,96 @@
+﻿ 
+Started writing report for 181150Q02_TWH_Main-Block_LG_Room15_5 folder, time is 17:02 20Feb2019 :
+Copied file from 'new' folder to the 'completed' folder
+ 
+Started writing report for 181150Q02_TWH_Main-Block_LG_Room15_5 folder, time is 17:02 20Feb2019 :
+ 
+Started writing report for 181150Q02_TWH_Main-Block_LG_Room15_5 folder, time is 17:02 20Feb2019 :
+ 
+Started writing report for 181150Q02_TWH_Main-Block_LG_Room15_5 folder, time is 17:02 20Feb2019 :
+ 
+Started writing report for 181150Q02_TWH_Main-Block_LG_Room15_5 folder, time is 17:02 20Feb2019 :
+Same filename exists
+ 
+Started writing report for 181150Q02_TWH_Main-Block_LG_Room15_5 folder, time is 09:02 27Feb2019 :
+ 
+Started writing report for 181150Q02_TWH_Main-Block_LG_Room15_5 folder, time is 09:02 27Feb2019 :
+ 
+Started writing report for 181150Q02_TWH_Main-Block_LG_Room15_5 folder, time is 09:02 27Feb2019 :
+Copied file from 'new' folder to the 'completed' folder
+Got data from ftp5G.txt file
+Got data from ftp2G.txt file
+Got data from config.xlsx from range Z1:end 
+Began writing report... 
+Replaced all request text(Bookmark) in the report 
+Plasted the config table
+Plasted the ftp_5G data
+Plasted the ftp_2.4G data
+Began plasting the photo
+Finished plasting the photo
+Started deleting the folders in 'new' folder
+Finished
+No input folder in 'new' directory
+No input folder in 'new' directory
+Same filename exists
+Same filename exists
+ 
+Started writing report for 181150Q02_TWH_Main-Block_LG_Room15_5 folder, time is 09:03 06Mar2019 :
+Copied file from 'new' folder to the 'completed' folder
+Got data from ftp5G.txt file
+Got data from ftp2G.txt file
+Got data from config.xlsx from range Z1:end 
+Began writing report... 
+Replaced all request text(Bookmark) in the report 
+Plasted the config table
+Plasted the ftp_5G data
+Plasted the ftp_2.4G data
+Began plasting the photo
+Finished plasting the photo
+Started deleting the folders in 'new' folder
+Finished
+ 
+Started writing report for 181150Q02_TWH_Main-Block_LG_Room15_5 folder, time is 15:03 15Mar2019 :
+ 
+Started writing report for 181150Q02_TWH_Main-Block_LG_Room15_5 folder, time is 15:03 15Mar2019 :
+ 
+Started writing report for 181150Q02_TWH_Main-Block_LG_Room15_5 folder, time is 15:03 15Mar2019 :
+ 
+Started writing report for 181150Q02_TWH_Main-Block_LG_Room15_5 folder, time is 15:03 15Mar2019 :
+ 
+Started writing report for 181150Q02_TWH_Main-Block_LG_Room15_5 folder, time is 09:03 22Mar2019 :
+ 
+Started writing report for 181150Q02_TWH_Main-Block_LG_Room15_5 folder, time is 09:03 22Mar2019 :
+ 
+Started writing report for 181150Q02_TWH_Main-Block_LG_Room15_5 folder, time is 09:03 22Mar2019 :
+ 
+Started writing report for 181150Q02_TWH_Main-Block_LG_Room15_5 folder, time is 09:03 22Mar2019 :
+ 
+Started writing report for 181150Q02_TWH_Main-Block_LG_Room15_5 folder, time is 09:03 22Mar2019 :
+ 
+Started writing report for 181150Q02_TWH_Main-Block_LG_Room15_5 folder, time is 09:03 22Mar2019 :
+ 
+Started writing report for 181150Q02_TWH_Main-Block_LG_Room15_5 folder, time is 09:03 22Mar2019 :
+ 
+Started writing report for 181150Q02_TWH_Main-Block_LG_Room15_5 folder, time is 09:03 22Mar2019 :
+ 
+Started writing report for 181150Q02_TWH_Main-Block_LG_Room15_5 folder, time is 09:03 22Mar2019 :
+ 
+Started writing report for 181150Q02_TWH_Main-Block_LG_Room15_5 folder, time is 09:03 22Mar2019 :
+ 
+Started writing report for 181150Q02_TWH_Main-Block_LG_Room15_5 folder, time is 09:03 22Mar2019 :
+ 
+Started writing report for 181150Q02_TWH_Main-Block_LG_Room15_5 folder, time is 09:03 22Mar2019 :
+ 
+Started writing report for 181150Q02_TWH_Main-Block_LG_Room15_5 folder, time is 09:03 22Mar2019 :
+ 
+Started writing report for 181150Q02_TWH_Main-Block_LG_Room15_5 folder, time is 10:03 22Mar2019 :
+Copied file from 'new' folder to the 'completed' folder
+Got data from ftp5G.txt file
+Got data from ftp2G.txt file
+Got data from config.xlsx from range Z1:end 
+Began writing report... 
+Replaced all request text(Bookmark) in the report 
+Plasted the config table
+Plasted the ftp_5G data
+Plasted the ftp_2.4G data
+Began plasting the photo
